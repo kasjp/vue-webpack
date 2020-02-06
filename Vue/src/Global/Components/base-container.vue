@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: "Base Container"
+  name: "Base-Container"
 };
 </script>
 <style lang="scss" scoped>
